@@ -12,3 +12,4 @@ E:\MUKUNDA\C#\Csharp Features\CSharp 1.0\obj\Debug\net8.0\refint\CSharp 1.0.dll
 E:\MUKUNDA\C#\Csharp Features\CSharp 1.0\obj\Debug\net8.0\CSharp 1.0.pdb
 E:\MUKUNDA\C#\Csharp Features\CSharp 1.0\obj\Debug\net8.0\CSharp 1.0.genruntimeconfig.cache
 E:\MUKUNDA\C#\Csharp Features\CSharp 1.0\obj\Debug\net8.0\ref\CSharp 1.0.dll
+E:\MUKUNDA\C#\Csharp Features\CSharp 1.0\obj\Debug\net8.0\CSharp 1.0.sourcelink.json

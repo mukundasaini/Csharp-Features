@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "E:\\MUKUNDA\\C#\\Csharp Features\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18A9B7B6-0C8F-4EE9-8DDD-F98C26FA78BB}|CSharp 1.0\\CSharp 1.0.csproj|e:\\mukunda\\c#\\csharp features\\csharp 1.0\\eventexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18A9B7B6-0C8F-4EE9-8DDD-F98C26FA78BB}|CSharp 1.0\\CSharp 1.0.csproj|solutionrelative:csharp 1.0\\eventexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18A9B7B6-0C8F-4EE9-8DDD-F98C26FA78BB}|CSharp 1.0\\CSharp 1.0.csproj|e:\\mukunda\\c#\\csharp features\\csharp 1.0\\propertyexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A9B7B6-0C8F-4EE9-8DDD-F98C26FA78BB}|CSharp 1.0\\CSharp 1.0.csproj|solutionrelative:csharp 1.0\\propertyexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18A9B7B6-0C8F-4EE9-8DDD-F98C26FA78BB}|CSharp 1.0\\CSharp 1.0.csproj|e:\\mukunda\\c#\\csharp features\\csharp 1.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18A9B7B6-0C8F-4EE9-8DDD-F98C26FA78BB}|CSharp 1.0\\CSharp 1.0.csproj|solutionrelative:csharp 1.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18A9B7B6-0C8F-4EE9-8DDD-F98C26FA78BB}|CSharp 1.0\\CSharp 1.0.csproj|e:\\mukunda\\c#\\csharp features\\csharp 1.0\\classexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18A9B7B6-0C8F-4EE9-8DDD-F98C26FA78BB}|CSharp 1.0\\CSharp 1.0.csproj|solutionrelative:csharp 1.0\\classexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18A9B7B6-0C8F-4EE9-8DDD-F98C26FA78BB}|CSharp 1.0\\CSharp 1.0.csproj|e:\\mukunda\\c#\\csharp features\\csharp 1.0\\interfaceexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18A9B7B6-0C8F-4EE9-8DDD-F98C26FA78BB}|CSharp 1.0\\CSharp 1.0.csproj|solutionrelative:csharp 1.0\\interfaceexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18A9B7B6-0C8F-4EE9-8DDD-F98C26FA78BB}|CSharp 1.0\\CSharp 1.0.csproj|e:\\mukunda\\c#\\csharp features\\csharp 1.0\\iinterfaceexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18A9B7B6-0C8F-4EE9-8DDD-F98C26FA78BB}|CSharp 1.0\\CSharp 1.0.csproj|solutionrelative:csharp 1.0\\iinterfaceexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18A9B7B6-0C8F-4EE9-8DDD-F98C26FA78BB}|CSharp 1.0\\CSharp 1.0.csproj|e:\\mukunda\\c#\\csharp features\\csharp 1.0\\structureexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18A9B7B6-0C8F-4EE9-8DDD-F98C26FA78BB}|CSharp 1.0\\CSharp 1.0.csproj|solutionrelative:csharp 1.0\\structureexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18A9B7B6-0C8F-4EE9-8DDD-F98C26FA78BB}|CSharp 1.0\\CSharp 1.0.csproj|e:\\mukunda\\c#\\csharp features\\csharp 1.0\\delegateexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A9B7B6-0C8F-4EE9-8DDD-F98C26FA78BB}|CSharp 1.0\\CSharp 1.0.csproj|solutionrelative:csharp 1.0\\delegateexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,73 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EventExample.cs",
-              "DocumentMoniker": "E:\\MUKUNDA\\C#\\Csharp Features\\CSharp 1.0\\EventExample.cs",
-              "RelativeDocumentMoniker": "CSharp 1.0\\EventExample.cs",
-              "ToolTip": "E:\\MUKUNDA\\C#\\Csharp Features\\CSharp 1.0\\EventExample.cs",
-              "RelativeToolTip": "CSharp 1.0\\EventExample.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T09:50:05.605Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IInterfaceExample.cs",
-              "DocumentMoniker": "E:\\MUKUNDA\\C#\\Csharp Features\\CSharp 1.0\\IInterfaceExample.cs",
-              "RelativeDocumentMoniker": "CSharp 1.0\\IInterfaceExample.cs",
-              "ToolTip": "E:\\MUKUNDA\\C#\\Csharp Features\\CSharp 1.0\\IInterfaceExample.cs",
-              "RelativeToolTip": "CSharp 1.0\\IInterfaceExample.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T09:31:35.209Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "InterfaceExample.cs",
-              "DocumentMoniker": "E:\\MUKUNDA\\C#\\Csharp Features\\CSharp 1.0\\InterfaceExample.cs",
-              "RelativeDocumentMoniker": "CSharp 1.0\\InterfaceExample.cs",
-              "ToolTip": "E:\\MUKUNDA\\C#\\Csharp Features\\CSharp 1.0\\InterfaceExample.cs",
-              "RelativeToolTip": "CSharp 1.0\\InterfaceExample.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T08:39:37.363Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "StructureExample.cs",
-              "DocumentMoniker": "E:\\MUKUNDA\\C#\\Csharp Features\\CSharp 1.0\\StructureExample.cs",
-              "RelativeDocumentMoniker": "CSharp 1.0\\StructureExample.cs",
-              "ToolTip": "E:\\MUKUNDA\\C#\\Csharp Features\\CSharp 1.0\\StructureExample.cs",
-              "RelativeToolTip": "CSharp 1.0\\StructureExample.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAwwCsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T07:42:56.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ClassExample.cs",
-              "DocumentMoniker": "E:\\MUKUNDA\\C#\\Csharp Features\\CSharp 1.0\\ClassExample.cs",
-              "RelativeDocumentMoniker": "CSharp 1.0\\ClassExample.cs",
-              "ToolTip": "E:\\MUKUNDA\\C#\\Csharp Features\\CSharp 1.0\\ClassExample.cs",
-              "RelativeToolTip": "CSharp 1.0\\ClassExample.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAzwBQAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T06:33:24.77Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -109,9 +32,36 @@
               "RelativeDocumentMoniker": "CSharp 1.0\\Program.cs",
               "ToolTip": "E:\\MUKUNDA\\C#\\Csharp Features\\CSharp 1.0\\Program.cs",
               "RelativeToolTip": "CSharp 1.0\\Program.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAAAAAAAA",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAIwHsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-08T06:32:59.365Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PropertyExample.cs",
+              "DocumentMoniker": "E:\\MUKUNDA\\C#\\Csharp Features\\CSharp 1.0\\PropertyExample.cs",
+              "RelativeDocumentMoniker": "CSharp 1.0\\PropertyExample.cs",
+              "ToolTip": "E:\\MUKUNDA\\C#\\Csharp Features\\CSharp 1.0\\PropertyExample.cs",
+              "RelativeToolTip": "CSharp 1.0\\PropertyExample.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:57:40.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DelegateExample.cs",
+              "DocumentMoniker": "E:\\MUKUNDA\\C#\\Csharp Features\\CSharp 1.0\\DelegateExample.cs",
+              "RelativeDocumentMoniker": "CSharp 1.0\\DelegateExample.cs",
+              "ToolTip": "E:\\MUKUNDA\\C#\\Csharp Features\\CSharp 1.0\\DelegateExample.cs",
+              "RelativeToolTip": "CSharp 1.0\\DelegateExample.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:33:19.738Z",
               "EditorCaption": ""
             }
           ]
